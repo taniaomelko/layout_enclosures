@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-div {
+.block {
   border: solid 1px #e6605c;
 }
 
